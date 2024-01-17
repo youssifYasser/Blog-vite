@@ -10,7 +10,6 @@ Blog-Vite
   - [Technologies Used](#technologies-used)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
   - [License](#license)
 
 ## Description
@@ -43,11 +42,6 @@ To use the Blog App, follow these steps:
 2. View blog posts from the dashboard
 3. View the comments of every post
 4. View the User details
-5. Edit or delete blog posts as needed
-
-## Contributing
-
-Guidelines for contributing to the project. Include information on how to submit bug reports, feature requests, or pull requests.
 
 ## License
 
