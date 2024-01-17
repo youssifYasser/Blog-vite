@@ -7,6 +7,7 @@ Blog-Vite
 - [Project Name](#project-name)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
+  - [Technologies Used](#technologies-used)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -16,12 +17,20 @@ Blog-Vite
 
 The Blog App is a web application that allows users to view posts. Users can View his posts The application provides a user-friendly interface for managing blog content.
 
+## Technologies Used
+
+1. Front-end: React-Vite TypeScript
+2. Styling: SASS
+3. Main Packages:
+   1. React-router-dom
+   2. axios
+
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/blog-app.git`
+1. Clone the repository: `git clone https://github.com/youssifYasser/Blog-vite`
 2. Navigate to the project directory: `cd blog-vite`
 3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 5. Open the application in your browser at `http://localhost:5173`
 
 Note: Make sure you have Node.js and npm installed on your system.
