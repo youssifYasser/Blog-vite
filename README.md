@@ -22,7 +22,7 @@ The Blog App is a web application that allows users to view posts. Users can Vie
 2. Navigate to the project directory: `cd blog-vite`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
-5. Open the application in your browser at `http://localhost:3000`
+5. Open the application in your browser at `http://localhost:5173`
 
 Note: Make sure you have Node.js and npm installed on your system.
 
@@ -30,7 +30,7 @@ Note: Make sure you have Node.js and npm installed on your system.
 
 To use the Blog App, follow these steps:
 
-1. Open the application in your browser at `http://localhost:3000`
+1. Open the application in your browser at `http://localhost:5173`
 2. View blog posts from the dashboard
 3. View the comments of every post
 4. View the User details
